@@ -68,7 +68,8 @@ Then speak a command through the microphone.
 - Open Notepad
 - Open Calculator
 - Exit
-
+## Demo Video
+[Watch Demo Video](https://drive.google.com/file/d/1BwkvVupd2SJX9_ZKFszWSUVxSH-XE1Uh/view?usp=sharing)
 ## Internship
 
 This project was developed as part of the OASIS INFOBYTE Internship Program.
