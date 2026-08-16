@@ -38,4 +38,7 @@ python bmi_calculator.py
 ## Screenshot
 
 ![BMI Calculator]((screenshot.png)
+## Demo Video
+
+[Watch BMI Calculator Demo](https://drive.google.com/file/d/1N85lXJ1ORNErYTq45S_GUymuBjhmuKI9/view?usp=sharing)
 
