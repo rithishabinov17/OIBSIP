@@ -35,3 +35,7 @@ A professional BMI Calculator desktop application developed using Python, Tkinte
 
 ```bash
 python bmi_calculator.py
+## Screenshot
+
+![BMI Calculator]((screenshot.png)
+
